@@ -54,7 +54,7 @@ Watch the project demonstration by clicking the link below:
 
 GitHub Repository:
 
-**https://github.com/YOUR_USERNAME/YOUR_REPOSITORY**
+**[https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://www.tinkercad.com/things/ekkaNN5PO1c-cool-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2F1b1ODZy8rpc-grand-vihelmo)**
 
 > Replace the link above with your GitHub repository URL after uploading the project.
 
